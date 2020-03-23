@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0dd737ea-e026-4c88-99bb-bc04aa51ed96" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZUhXV3gDEb7pwvjlmdbBHddUAd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Background" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CountCharAppearanceTimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountCharAppearanceTimes" />
+      <module name="CountChar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CountCharAppearanceTimes" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0dd737ea-e026-4c88-99bb-bc04aa51ed96" name="Default Changelist" comment="" />
+      <created>1584899619473</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584899619473</updated>
+      <workItem from="1584899622416" duration="434000" />
+      <workItem from="1584930363690" duration="465000" />
+      <workItem from="1584944853485" duration="775000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1874" height="235" key="GridCell.Tab.0.bottom" timestamp="1584900056331">
+      <screen x="0" y="27" width="1920" height="994" />
+    </state>
+    <state width="1874" height="235" key="GridCell.Tab.0.bottom/0.27.1920.994@0.27.1920.994" timestamp="1584900056331" />
+    <state width="1874" height="235" key="GridCell.Tab.0.center" timestamp="1584900056330">
+      <screen x="0" y="27" width="1920" height="994" />
+    </state>
+    <state width="1874" height="235" key="GridCell.Tab.0.center/0.27.1920.994@0.27.1920.994" timestamp="1584900056330" />
+    <state width="1874" height="235" key="GridCell.Tab.0.left" timestamp="1584900056329">
+      <screen x="0" y="27" width="1920" height="994" />
+    </state>
+    <state width="1874" height="235" key="GridCell.Tab.0.left/0.27.1920.994@0.27.1920.994" timestamp="1584900056329" />
+    <state width="1874" height="235" key="GridCell.Tab.0.right" timestamp="1584900056330">
+      <screen x="0" y="27" width="1920" height="994" />
+    </state>
+    <state width="1874" height="235" key="GridCell.Tab.0.right/0.27.1920.994@0.27.1920.994" timestamp="1584900056330" />
+    <state x="552" y="60" width="1024" height="845" key="SettingsEditor" timestamp="1584930555702">
+      <screen x="0" y="27" width="1920" height="994" />
+    </state>
+    <state x="552" y="60" width="1024" height="845" key="SettingsEditor/0.27.1920.994@0.27.1920.994" timestamp="1584930555702" />
+  </component>
+</project>
